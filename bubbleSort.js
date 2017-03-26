@@ -3,8 +3,8 @@
  * @description:
  * @Date: 17/3/16 16:10
  */
-
 var arr = [1, 4, 3, 6, 9, 7, 5, 8, 2, 0];
+
 
 function bubbleSort() {
     var temp;
