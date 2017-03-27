@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="4fdb8d28-8969-494e-b720-26bebff55ebd" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/insertSort.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/bubbleSort.js" afterPath="$PROJECT_DIR$/bubbleSort.js" />
-    </list>
+    <list default="true" id="4fdb8d28-8969-494e-b720-26bebff55ebd" name="Default" comment="" />
     <ignored path="$PROJECT_DIR$/.tmp/" />
     <ignored path="$PROJECT_DIR$/temp/" />
     <ignored path="$PROJECT_DIR$/tmp/" />
@@ -45,8 +41,8 @@
       <file leaf-file-name="insertSort.js" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/insertSort.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="315">
-              <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+            <state relative-caret-position="195">
+              <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
               <folding>
                 <element signature="e#0#54#0" expanded="false" />
               </folding>
@@ -117,8 +113,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="567" />
-    <option name="y" value="44" />
+    <option name="x" value="25" />
+    <option name="y" value="26" />
     <option name="width" value="1440" />
     <option name="height" value="829" />
   </component>
@@ -288,15 +284,15 @@
       <workItem from="1489651736217" duration="3360000" />
       <workItem from="1489674046789" duration="1893000" />
       <workItem from="1489817269269" duration="208000" />
-      <workItem from="1490531801806" duration="1948000" />
+      <workItem from="1490531801806" duration="3018000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7409000" />
+    <option name="totallyTimeSpent" value="8479000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="567" y="44" width="1440" height="829" extended-state="0" />
+    <frame x="25" y="26" width="1440" height="829" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24876674" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -456,8 +452,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/insertSort.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="315">
-          <caret line="23" column="16" lean-forward="false" selection-start-line="23" selection-start-column="16" selection-end-line="23" selection-end-column="16" />
+        <state relative-caret-position="195">
+          <caret line="15" column="20" lean-forward="true" selection-start-line="15" selection-start-column="20" selection-end-line="15" selection-end-column="20" />
           <folding>
             <element signature="e#0#54#0" expanded="false" />
           </folding>
